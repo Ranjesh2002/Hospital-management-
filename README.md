@@ -109,6 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/hospital-management-system](https://github.com/your-username/hospital-management-system)
+Ranjesh Thakur - [rs0036870@example.com](mailto:your-email@example.com)
