@@ -109,4 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Ranjesh Thakur - [rs0036870@example.com](mailto:your-email@example.com)
+Ranjesh Thakur - [rs0036870@gmail.com](mailto:your-email@example.com)
